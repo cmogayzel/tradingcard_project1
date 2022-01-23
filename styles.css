@@ -9,6 +9,10 @@
     padding-bottom: 12px;
     margin-right: 22px;
 }
+
+h3 {
+    font-size: 28px;
+}
 img {
  
     width: 300px;
@@ -18,7 +22,7 @@ img {
 
 .myInfo {
     border-style: double;
-    border-width: 3px;
+    border-width: 5px;
     border-color: black;
     padding-left: 12px;
     padding-top: 6px;
