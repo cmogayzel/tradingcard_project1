@@ -1,1 +1,36 @@
 /* add your CSS here */
+
+
+.intro {
+    border-style: groove;
+    border-width: 3px;
+    border-color: black;
+    padding-left: 12px;
+    padding-bottom: 12px;
+    margin-right: 22px;
+}
+img {
+ 
+    width: 300px;
+    padding-left: 150px;
+    padding-bottom: 8px;
+}
+
+.myInfo {
+    border-style: double;
+    border-width: 3px;
+    border-color: black;
+    padding-left: 12px;
+    padding-top: 6px;
+    margin-right: 22px;
+}
+
+.info {
+    font-style: italic;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+}
+
