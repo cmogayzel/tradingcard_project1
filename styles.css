@@ -1,17 +1,15 @@
 /* add your CSS here */
 
-* {
-    margin: 5px;
-}
-
 body {
     background-color: darkcyan;
+    width: 400px;
 }
 
 .intro {
     border-style: groove;
     border-width: 6px;
     border-color: yellowgreen;
+    padding: 0 1em 2em;
 }
 
 h3 {
@@ -20,20 +18,22 @@ h3 {
 
 img {
     width: 300px;
-    padding-left: 150px;
-    padding-bottom: 8px;
+    padding: 0 0 2em;
 }
 
 .myInfo {
     border-style: double;
     border-width: 5px;
     border-color: ghostwhite;
+    padding: 1em 1em 1em;
 }
 
 .info {
+    font: 100%/1.6, georgia, serif;
     font-style: italic;
     font-size: 16px;
     color: white;
+    padding: 1em 0 1em;
 }
 
 ul {
